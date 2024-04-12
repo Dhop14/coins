@@ -10630,12 +10630,12 @@
                 "disable_cert_verification": true
             },
             {
-                "url": "holland.ecoincore.com:11019",
+                "url": "electrum3.egulden.org:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true
             },
             {
-                "url": "lenoir.ecoincore.com:11019",
+                "url": "holland.ecoincore.com:11019",
                 "protocol": "WSS",
                 "disable_cert_verification": true
             }

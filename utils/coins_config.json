@@ -12524,6 +12524,11 @@
                 "disable_cert_verification": true
             },
             {
+                "url": "electrum3.egulden.org:50002",
+                "protocol": "SSL",
+                "disable_cert_verification": true
+            },
+            {
                 "url": "holland.ecoincore.com:11017",
                 "protocol": "SSL",
                 "disable_cert_verification": true
@@ -12535,6 +12540,11 @@
             },
             {
                 "url": "electrum1.egulden.org:50004",
+                "protocol": "WSS",
+                "disable_cert_verification": true
+            },
+            {
+                "url": "electrum3.egulden.org:50004",
                 "protocol": "WSS",
                 "disable_cert_verification": true
             },
@@ -39673,6 +39683,10 @@
             "homepage": "https://primecoin.io"
         },
         "electrum": [
+            {
+                "url": "electrumx.gemmer.primecoin.org:50011",
+                "protocol": "TCP"
+            },
             {
                 "url": "electrumx.mainnet.primecoin.org:50011",
                 "protocol": "TCP"
